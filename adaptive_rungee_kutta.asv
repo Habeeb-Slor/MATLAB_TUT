@@ -1,0 +1,4 @@
+clear;
+clc;
+h = 0.1;
+dydt(t, y) - 2 * y;
